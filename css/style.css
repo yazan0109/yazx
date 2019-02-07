@@ -194,7 +194,7 @@ img {
 }
 
 .sticky_navigation .navbar-brand, .sticky_navigation .navbar-brand span {
-    color: #E15F41;
+    color: #4887B0;
 }
 
 .sticky_navigation .navbar-brand:hover, .sticky_navigation .navbar-brand:focus, .sticky_navigation .navbar-brand span {
@@ -378,8 +378,11 @@ canvas{
     background: rgba(0,0,0,0.3);
 }
 
+.banner-btn a:hover {
+    background-color:rgba(74, 227, 19, 0.44)
+}
 .banner-btn a {
-    background-color: #E15F41;
+    background-color: #4887B0;
     color: #ffffff;
     padding: 10px 35px;
     display: inline-block;
@@ -415,7 +418,7 @@ canvas{
     line-height:40px;
 }
 .text-primary {
-    color: #E15F41;
+    color: #4887B0;
 }
 .socials {
     margin-top: 5%;
@@ -545,7 +548,7 @@ canvas{
 
 #resume h3 {
     font-size: 15px;
-    color: #E15F41;
+    color: #4887B0;
     margin: 10px auto;
     text-transform: uppercase;
 }
@@ -586,13 +589,13 @@ canvas{
 }
 
 .services-icon {
-    border: 1px solid #E15F41;
+    
     display: inline-block;
     width: 80px;
     height: 80px;
     border-radius: 50%;
     padding: 20px;
-    background-color: #E15F41;
+    background-color: #4887B0;
 }
 
 .single-services {
@@ -863,12 +866,13 @@ canvas{
     color: #fff;
     padding: 10px 20px;
     text-transform: uppercase;
-    background: #E15F41;
+    background: #4887B0;
     margin-top: 20px;
     border-radius: 30px;
     margin-left: 5px;
     margin-right: 5px;
     font-size: 14px;
+    text-decoration: none;
 }
 
 /*-------invitation area ends------*/
@@ -880,7 +884,7 @@ canvas{
     border:2px solid #a2a2a2;
     box-shadow: none;
     padding: 6px;
-    border-radius: 0;
+    border-radius: 10px;
     margin-bottom: 30px;
 }
 
@@ -897,7 +901,7 @@ canvas{
 }
 
 .btn.btn-send {
-    background-color: #E15F41;
+    background-color: #4887B0;
     color: #ffffff;
     padding: 10px 35px;
     display: inline-block;
@@ -980,6 +984,7 @@ canvas{
 .footer-area a{
     color: #E15F41;
 }
+
 
 /*--------------- Footer area ends -------------*/
 

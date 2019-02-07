@@ -12,7 +12,7 @@ $(document).ready(function () {
 
     $(function(){
        element.typed({
-           strings: ["Web Marketer", "Shopify Website Creator", "Chatbot Builder"],
+           strings: ["Chers visiteurs", "Voulez vous Traduire cette page?", "Ouvrez cette page avec Chrome", "Clic droit > Traduire en Français", "So allow me to tell you about myself",  "I'm a Web Marketer", "Shopify & Wordpress Website Creator", "Chatbot Builder", "I can create & edit few things on photoshop and illustrator", "I can edit HTML & CSS Codes",   ],
            loop: true,
            typeSpeed: 90
        });

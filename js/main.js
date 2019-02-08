@@ -12,9 +12,9 @@ $(document).ready(function () {
 
     $(function(){
        element.typed({
-           strings: ["Chers visiteurs", "Voulez vous Traduire cette page?", "Ouvrez cette page avec Chrome Clic droit > Traduire en Français", "I'm a Web Marketer", "Chatbot Builder", "Shopify & Wordpress Website Creator"],
+           strings: ["Hi", "Chers visiteurs", "Voulez vous Traduire cette page?", "Ouvrez cette page avec Chrome Clic droit > Traduire en Français", "I'm a Web Marketer", "Chatbot Builder", "Shopify and Wordpress Website Creator", "Hey, if you need someone to write your articles", "I really suck at writing", "Team work makes the dream work"],
            loop: true,
-           typeSpeed: 65
+           typeSpeed: 50
        });
     });
 
